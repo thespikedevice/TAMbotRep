@@ -71,4 +71,4 @@ client.on("message", (msg) => {
   }
 })
 
-client.login("ODAxODAyOTU5MzE4OTQxNjk3.YAl_Mg.JiBhm0zoSRBheJMrkufM469Rg8k");
+client.login(process.env.SECRET);
