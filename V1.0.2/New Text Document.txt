@@ -1,0 +1,11 @@
+{
+	"stick": {
+		"ingredients": {
+			"oak_wood": 1},
+		"count": 8},
+	"wooden_pickaxe": {
+		"ingredients": {
+			"oak_wood": 1,
+			"stick": 2},
+		"count": 1},
+}
