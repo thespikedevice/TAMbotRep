@@ -1,0 +1,15 @@
+{
+  "name": "TAMbot",
+  "version": "0.0.1",
+  "description": "Bot for TAM",
+  "main": "index.js",
+  "license": "MIT",
+  "modules": [
+    "discord.js"
+  ],
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "sha1": "^1.1.1"
+  }
+}

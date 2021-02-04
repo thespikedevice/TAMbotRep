@@ -1,0 +1,37 @@
+{
+	"stick": {
+		"ingredients": {
+			"oak_wood": 1
+    },
+		"count": 8,
+    "desc": "Used to craft many other items",
+    "limitOne": false
+  },
+	"wooden_pickaxe": {
+		"ingredients": {
+			"oak_wood": 1,
+			"stick": 2
+    },
+		"count": 1,
+    "desc": "Reduces ore timers by 5%. Does not stack with other wooden pickaxes",
+    "limitOne": true
+  },
+	"wooden_axe": {
+		"ingredients": {
+			"oak_wood": 1,
+			"stick": 2
+    },
+		"count": 1,
+    "desc": "Reduces tree timers by 5%. Does not stack with other wooden pickaxes",
+    "limitOne": true
+  },
+	"wooden_hoe": {
+		"ingredients": {
+			"oak_wood": 1,
+			"stick": 2
+    },
+		"count": 1,
+    "desc": "Reduces crop timers by 5%. Does not stack with other wooden pickaxes",
+    "limitOne": true
+  }
+}

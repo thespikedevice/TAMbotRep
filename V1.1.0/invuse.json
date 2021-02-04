@@ -1,0 +1,20 @@
+{
+    "oak_sapling": {
+        "class": "tree",
+        "type": "oak",
+        "timer": 60000,
+        "help": "..inv use oak_sapling [amount]",
+        "space": 3},
+    "beetroot_seeds": {
+        "class": "crop",
+        "type": "beetroot",
+        "timer": 10000,
+        "help": "..inv use beetroot_seeds [amount]",
+        "space": 1},
+  "cobblestone_generator": {
+    "class": "generator",
+    "type": "cobblestone",
+    "timer": 10000,
+    "help": "..inv use [cobblestone_generator|cobble_gen] [amount]",
+    "space": 1}
+}
