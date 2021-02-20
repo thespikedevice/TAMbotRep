@@ -1,0 +1,41 @@
+{
+    "oak_sapling": {
+        "class": "tree",
+        "type": "oak",
+        "timer": 60000,
+        "help": "..inv use oak_sapling [amount]",
+        "space": 3},
+    "beetroot_seeds": {
+        "class": "crop",
+        "type": "beetroot",
+        "timer": 10000,
+        "help": "..inv use beetroot_seeds [amount]",
+        "space": 1},
+  "cobblestone_generator": {
+    "class": "generator",
+    "type": "cobblestone",
+    "timer": 10000,
+    "help": "..inv use [cobblestone_generator|cobble_gen] [amount]",
+    "space": 1},
+  "potato": {
+    "class": "crop",
+    "type": "potato",
+    "timer": 60000,
+    "help": "..inv use potato [amount]",
+    "space": 1},
+  "pumpkin_seeds": {
+    "class": "crop",
+    "type": "pumpkin",
+    "timer": 300000,
+    "space": 3},
+  "coal_generator": {
+    "class": "generator",
+    "type": "coal",
+    "timer": 60000,
+    "space": 2},
+  "cow_spawner": {
+    "class": "spawner",
+    "type": "cow",
+    "timer": 15000,
+    "space": 5}
+}

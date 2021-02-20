@@ -1,0 +1,11 @@
+{
+  "oak_sapling": [50, 1],
+  "beetroot_seeds": [30,1],
+  "water_bucket": [250,1],
+  "dirt": [100,1],
+  "cobblestone_generator": [1000,1],
+  "potato": [50,2],
+  "pumpkin_seeds": [65,2],
+  "coal_generator": [5000,2],
+  "cow_spawner": [15000,2]
+}
